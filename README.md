@@ -1,8 +1,14 @@
 ### Hafez Poem
 
+
+
 ## Give you random poem of hafez
 
 You can use this for factor of restaurants and other stuff
+
+INSTALL:
+
+```pip install hafezpoem```
 
 USAGE:
 ```python
